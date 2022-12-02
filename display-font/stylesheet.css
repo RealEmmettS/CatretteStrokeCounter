@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hendrickson';
+    src: url('HendricksonRegular.woff2') format('woff2'),
+        url('HendricksonRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
